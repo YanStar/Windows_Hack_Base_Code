@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/3/4 21:12:28。
+     1>项目“I:\VS2013Project\windows_hack_base_code\SessionInject\SessionInject\SessionInject.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\SessionInject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SessionInject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SessionInject.cpp
+         SessionInject.cpp
+     1>i:\vs2013project\windows_hack_base_code\sessioninject\sessioninject\sessioninject.cpp(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+                 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+     1>i:\vs2013project\windows_hack_base_code\sessioninject\sessioninject\sessioninject.cpp(1): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+                 将宏添加到预编译头中，而不是在此处定义
+                 i:\vs2013project\windows_hack_base_code\sessioninject\sessioninject\sessioninject.cpp(3) : 使用预编译头
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\VS2013Project\windows_hack_base_code\SessionInject\Debug\SessionInject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\VS2013Project\windows_hack_base_code\SessionInject\Debug\SessionInject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\VS2013Project\windows_hack_base_code\SessionInject\Debug\SessionInject.lib" /MACHINE:X86 Debug\SessionInject.obj
+         Debug\stdafx.obj
+         SessionInject.vcxproj -> I:\VS2013Project\windows_hack_base_code\SessionInject\Debug\SessionInject.exe
+     1>已完成生成项目“I:\VS2013Project\windows_hack_base_code\SessionInject\SessionInject\SessionInject.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.03

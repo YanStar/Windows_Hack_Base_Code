@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/3/7 0:53:26。
+     1>项目“I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\DisguiseProcess\DisguiseProcess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DisguiseProcess.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DisguiseProcess.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DisguiseProcess.cpp DisguiseProcess_Test.cpp
+         DisguiseProcess_Test.cpp
+     1>i:\vs2013project\windows_hack_base_code\hide_process\disguiseprocess\disguiseprocess\disguiseprocess_test.cpp(8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         DisguiseProcess.cpp
+     1>i:\vs2013project\windows_hack_base_code\hide_process\disguiseprocess\disguiseprocess\disguiseprocess.cpp(12): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\Debug\DisguiseProcess.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\Debug\DisguiseProcess.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\Debug\DisguiseProcess.lib" /MACHINE:X86 Debug\DisguiseProcess.obj
+         Debug\DisguiseProcess_Test.obj
+         Debug\stdafx.obj
+         DisguiseProcess.vcxproj -> I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\Debug\DisguiseProcess.exe
+     1>已完成生成项目“I:\VS2013Project\windows_hack_base_code\hide_process\DisguiseProcess\DisguiseProcess\DisguiseProcess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.83

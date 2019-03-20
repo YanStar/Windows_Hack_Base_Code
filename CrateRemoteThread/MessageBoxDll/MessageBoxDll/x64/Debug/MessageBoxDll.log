@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/3/4 19:15:51。
+     1>项目“I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\MessageBoxDll\MessageBoxDll.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MESSAGEBOXDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\MessageBoxDll.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MESSAGEBOXDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MESSAGEBOXDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MessageBoxDll.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt MessageBoxDll.cpp
+         MessageBoxDll.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\x64\Debug\MessageBoxDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\x64\Debug\MessageBoxDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\x64\Debug\MessageBoxDll.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+         x64\Debug\MessageBoxDll.obj
+         x64\Debug\stdafx.obj
+         MessageBoxDll.vcxproj -> I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\x64\Debug\MessageBoxDll.dll
+     1>已完成生成项目“I:\VS2013Project\windows_hack_base_code\CrateRemoteThread\MessageBoxDll\MessageBoxDll\MessageBoxDll.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.76

@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/3/6 15:17:50。
+     1>项目“I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\aotuRun_Service\aotuRun_Service.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\aotuRun_Service.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\aotuRun_Service.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt aotuRun_Service.cpp ServiceOperate.cpp
+         ServiceOperate.cpp
+     1>i:\vs2013project\windows_hack_base_code\autorun\aoturun_service\aoturun_service\serviceoperate.cpp(8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>i:\vs2013project\windows_hack_base_code\autorun\aoturun_service\aoturun_service\serviceoperate.cpp(66): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+         aotuRun_Service.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\Debug\aotuRun_Service.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\Debug\aotuRun_Service.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\Debug\aotuRun_Service.lib" /MACHINE:X86 Debug\aotuRun_Service.obj
+         Debug\ServiceOperate.obj
+         Debug\stdafx.obj
+         aotuRun_Service.vcxproj -> I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\Debug\aotuRun_Service.exe
+     1>已完成生成项目“I:\VS2013Project\windows_hack_base_code\autoRun\aotuRun_Service\aotuRun_Service\aotuRun_Service.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.30

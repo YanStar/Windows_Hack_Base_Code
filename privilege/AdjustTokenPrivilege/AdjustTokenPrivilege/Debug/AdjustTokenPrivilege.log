@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/3/6 16:16:49。
+     1>项目“I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\AdjustTokenPrivilege\AdjustTokenPrivilege.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\AdjustTokenPrivilege.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AdjustTokenPrivilege.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AdjustTokenPrivilege.cpp AdjustTokenPrivilege_Test.cpp
+         AdjustTokenPrivilege_Test.cpp
+     1>i:\vs2013project\windows_hack_base_code\privilege\adjusttokenprivilege\adjusttokenprivilege\adjusttokenprivilege_test.cpp(8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         AdjustTokenPrivilege.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\Debug\AdjustTokenPrivilege.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\Debug\AdjustTokenPrivilege.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\Debug\AdjustTokenPrivilege.lib" /MACHINE:X86 Debug\AdjustTokenPrivilege.obj
+         Debug\AdjustTokenPrivilege_Test.obj
+         Debug\stdafx.obj
+         AdjustTokenPrivilege.vcxproj -> I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\Debug\AdjustTokenPrivilege.exe
+     1>已完成生成项目“I:\VS2013Project\windows_hack_base_code\privilege\AdjustTokenPrivilege\AdjustTokenPrivilege\AdjustTokenPrivilege.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.96
